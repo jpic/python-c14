@@ -17,6 +17,10 @@ import json
 import requests
 import slumber
 
+
+__version__ = '0.0.2'
+
+
 API_URL = 'https://api.online.net/api/v1'
 
 
